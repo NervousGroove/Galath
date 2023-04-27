@@ -1,2 +1,1 @@
-# Galath
-Improve your game's graphics and make it graphically compatible with any device
+Galath is an API for improving the graphics and compatibility of your Unity game by adjusting the graphics quality according to the user's video card. This was used in the creation of SwankyNoob's own game Glorial Eternal.
