@@ -1,4 +1,4 @@
-# 🚀 Galath <img src="https://raw.githubusercontent.com/NervousGroove/Galath/main/128.png" alt="Galath" width="38"/>
+# 🚀 <img src="https://raw.githubusercontent.com/NervousGroove/Galath/main/128.png" alt="Galath" width="35"/> Galath 
 Galath is a framework dedicated to all web technologies and languages, developed and maintained individually by SwankyNoob since 2023. Thanks to Galath you can develop desktop applications using any web language/technology, such as JavaScript, HTML, CSS, LiveScript, TypeScript, SpellSpike, and Zig. 
 
 # 📦 How to Install
