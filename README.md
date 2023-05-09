@@ -23,7 +23,7 @@ To install and configure Galath is extremely easy. Here are the steps:
 9. That's it! You can now distribute or test your program. You CANNOT rename the "Encrypt" file, but you can rename the "Galath" file.
 
 # 📖 LICENSE
-The Galath project/repository/framework is under the restrictive CC-NC-ND 4.0 license, READ THE RESTRICTIONS OF THIS LICENSE.
+The Galath project/repository/framework is under the restrictive CC-NC-ND 4.0 license, READ THE RESTRICTIONS OF THIS LICENSE. It is important to remember that the license restrictions only apply to Galath source code, since when you distribute/create an app with Galath, you will not edit/see Galath source code, and this does not fall under the license restrictions. YOU CANNOT MODIFY GALATH'S SOURCE CODE, AND YOU MUST GIVE PROPER CREDIT WHEN DISTRIBUTING YOUR APP CREATED WITH GALATH, READ THE LICENSE.
 
 # ☕ Cross-platform
 Galath is compatible with various operating systems, such as:
