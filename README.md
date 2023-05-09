@@ -44,3 +44,5 @@ Notice that one of the files included in Galath is the "package.spike" file. You
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
 
 [This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
+
+<img src="https://raw.githubusercontent.com/NervousGroove/Galath/main/128.png" alt="Galath" width="120"/>
