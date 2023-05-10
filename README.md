@@ -41,6 +41,9 @@ Galath is the most secure framework for creating applications using web technolo
 # ✨ Customizing Your Program
 Notice that one of the files included in Galath is the "package.spike" file. You can change some of the information in this file such as the application name, author, and version. All these changes will impact your application, for example, if you change the application name, the window title will be the application name.
 
+# ☄️ How to Encrypt Additional Files
+With Galath it is extremely easy to encrypt files, the file "index.html" is encrypted by default, but additional files are at your discretion. To encrypt additional files, create a file called "config.spike" (in the Galath folder) and edit this file, adding the names of the files you want to encrypt (separated by a comma).
+
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
 
 [This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
