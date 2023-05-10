@@ -44,6 +44,10 @@ Notice that one of the files included in Galath is the "package.spike" file. You
 # ☄️ How to Encrypt Additional Files
 With Galath it is extremely easy to encrypt files, the file "index.html" is encrypted by default, but additional files are at your discretion. To encrypt additional files, create a file called "config.spike" (in the Galath folder) and edit this file, adding the names of the files you want to encrypt (separated by a comma).
 
+# 🌐 Official Website
+Galath has an official website, for new users to learn more about the capabilities of this framework. Remember, this website only has information and no Galath for download, the only way to download Galath is using GalathHub as mentioned above in the "How to Install" section. ACCESS THE GALATH WEBSITE (IT ONLY HAS INFORMATION):
+https://shre.ink/hellogalath
+
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
 
 [This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
