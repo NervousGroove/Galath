@@ -25,6 +25,12 @@ To install and configure Galath is extremely easy. Here are the steps:
 # 📖 LICENSE
 The Galath project/repository/framework is under the restrictive CC-NC-ND 4.0 license, READ THE RESTRICTIONS OF THIS LICENSE. It is important to remember that the license restrictions only apply to Galath source code, since when you distribute/create an app with Galath, you will not edit/see Galath source code, and this does not fall under the license restrictions. YOU CANNOT MODIFY GALATH'S SOURCE CODE, AND YOU MUST GIVE PROPER CREDIT WHEN DISTRIBUTING YOUR APP CREATED WITH GALATH, READ THE LICENSE.
 
+# 💸 Donate today! Help this project stay alive
+You can help/support this project/repository and help SwankyNoob maintain this and all other amazing projects of our developer, with any amount of ETH! The existence of this project depends on you, donate today! No matter the amount, every donation helps a lot! OUR ADDRESS TO RECEIVE ETHEREUM (METAMASK):
+```text
+0x17352A0e682dAFa233C83f15C902C86Ba7EB5B65
+```
+
 # ☕ Cross-platform
 Galath is compatible with various operating systems, such as:
 Windows, Linux, and macOS.
