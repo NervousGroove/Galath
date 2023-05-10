@@ -43,6 +43,14 @@ Notice that one of the files included in Galath is the "package.spike" file. You
 
 # ☄️ How to Encrypt Additional Files
 With Galath it is extremely easy to encrypt files, the file "index.html" is encrypted by default, but additional files are at your discretion. To encrypt additional files, create a file called "config.spike" (in the Galath folder) and edit this file, adding the names of the files you want to encrypt (separated by a comma).
+Another thing that is possible with Galath is to change the file names. But it's not a simple change, with the filename change technique Galath configures the new name and adapts it to work normally and correctly, for example, if you change the name of a file called "style.css" to "style.glt", this file will no longer be functional and will cause errors, but if you do it with Galath, it will work normally. To do this, just create a file called "ren.spike" in the Galath folder, and add the following structure:
+```text
+ren(old_filename) => new_filename
+```
+Notice that in the first parentheses you have the word "old_filename" (without quotes). You must replace this word with the name of the existing file it will rename, and in the other quotes there is the word "new_filename", in which you must put the new name of this file. Let's say there is a file called "main.js", and I want to rename it to "test.tkl", it will look like this:
+```text
+ren("main.js") => test.tkl
+```
 
 # 🌐 Official Website
 Galath has an official website, for new users to learn more about the capabilities of this framework. Remember, this website only has information and no Galath for download, the only way to download Galath is using GalathHub as mentioned above in the "How to Install" section. ACCESS THE GALATH WEBSITE (IT ONLY HAS INFORMATION):
