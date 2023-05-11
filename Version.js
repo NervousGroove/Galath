@@ -1,2 +1,2 @@
-var GalathVersion = "1.1.1"
-var GalathUpdateNotes = "Hello Word"
+let GalathVersion = "1.1.1"
+let GalathUpdateNotes = "Hello Word"
