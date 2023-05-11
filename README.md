@@ -4,23 +4,35 @@ Galath is a framework dedicated to all web technologies and languages, developed
 # 📦 How to Install
 To install and configure Galath is extremely easy. Here are the steps:
 
-1. Go to "https://shre.ink/galath".
+1. Go to "https://shre.ink/hellogalath".
 
-2. Click "Download Galath
+2. Click "Get Started Now"
 
-3. Download Galath from Mediafire
+3. You will be redirected to Google Drive, choose the folder for your operating system and download the GalathDashboard.
 
-4. Extract the .ZIP file
+4. Run the GalathDashboard installer.
 
-5. Choose the respective folder for your operating system
+5. Finish the installer.
 
-6. Move your web project files (including all files) to the folder you extracted from your operating system
+6. Run GalathDashboard.
 
-7. Run the "Encrypt" file
+7. Go to the "Download" tab and install the latest version of Galath.
 
-8. After execution, wait 4 seconds
+8. Wait for Galath Download.
 
-9. That's it! You can now distribute or test your program. You CANNOT rename the "Encrypt" file, but you can rename the "Galath" file.
+9. Run the Galath Installer.
+
+10. Finish the Galath installation.
+
+11. Go to the folder where you installed Galath.
+
+12. Move your web project files (including all files) to the Galath folder. (The main HTML file for your project should be called "index.html")
+
+13. Run the "Encrypt" file.
+
+14. After execution, wait 4 seconds.
+
+15. That's it! You can now distribute or test your program. You CANNOT rename the "Encrypt" file, but you can rename the "Galath" file.
 
 # 📖 LICENSE
 The Galath project/repository/framework is under the restrictive CC-NC-ND 4.0 license, READ THE RESTRICTIONS OF THIS LICENSE. It is important to remember that the license restrictions only apply to Galath source code, since when you distribute/create an app with Galath, you will not edit/see Galath source code, and this does not fall under the license restrictions. YOU CANNOT MODIFY GALATH'S SOURCE CODE, AND YOU MUST GIVE PROPER CREDIT WHEN DISTRIBUTING YOUR APP CREATED WITH GALATH, READ THE LICENSE.
