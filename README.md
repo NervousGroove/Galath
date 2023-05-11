@@ -70,10 +70,6 @@ Notice that in the first parentheses you have the word "old_filename" (without q
 ren("main.js") => test.tkl
 ```
 
-# 🌐 Official Website
-Galath has an official website, for new users to learn more about the capabilities of this framework. Remember, this website only has information and no Galath for download, the only way to download Galath is using GalathHub as mentioned above in the "How to Install" section. ACCESS THE GALATH WEBSITE (IT ONLY HAS INFORMATION):
-https://shre.ink/hellogalath
-
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
 
 [This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
