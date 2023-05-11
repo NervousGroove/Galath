@@ -1,2 +1,2 @@
 var GalathVersion = "1.1.1"
-var GalathUpdateNotes = "Hello Word"
+var GalathUpdateNotes = "Update 1.1.0: Galath's new update brought amazing new features. Among them, security and stability improvements. Galath is now faster and more secure. Here's what's new:  1. Now when you create/update your app, additional files (scripts and styles) will have GAC encryption, and that can be enhanced by you using the encryption technique.  2. Faster and more optimized  3.Updated engine (Version 2.4.7)"
